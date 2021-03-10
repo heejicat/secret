@@ -2,4 +2,5 @@
 
 Share your secret
 
-Node.js with express framework
+Node.js with express
+MongoDb with mongoose
